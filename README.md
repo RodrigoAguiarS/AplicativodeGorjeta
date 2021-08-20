@@ -1,1 +1,1 @@
-"Aplicativo de Gorjeta, mostrando a funcionalidade do seebar" 
+"Aplicativo de Gorjeta, mostrando a funcionalidade do seekbar" 
